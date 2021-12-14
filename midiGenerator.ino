@@ -14,7 +14,6 @@ int lastRoot = 0;
 int noteLight = 10;
 int onOffLight = 12;
 int stepMax = 0;
-int thisIsTheChangeIAmMakingToMyCodeRightNow = 100;
 
 
 void setup() {
